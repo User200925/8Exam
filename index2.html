@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Корзина</title>
+  <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container header-container">
+            <div class="logo">
+                <img style="max-width: 38px;" src="https://s3-alpha-sig.figma.com/img/4de5/7236/f9f670697fd9287efa7cab2cffff922e?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=eM618vjEBDRT-aMrjCTcrv0iCpUGfhoNUl2H-ZCbha3Og0VedbM0AsTvbCyx8KHZETO7luZXGBB-4Tl3-O2iEVKgVCsQymkPqtApfvuLQ3NZJ4d9lZ668hmVeQ5cFzf-TX-fU-eLPI0OFtyxVi3vehY~ZenwW6a9ufL7x3N2CP5R3DQrOod0iJjewTE4l0kFNP1OsVGprdLOQrkxu3e8v9GoX42NztRSHFukRRhkkynWzK~mT4QU6HI0v~dlvRNf~WtttZl5cIUKDAfhSYny8nbF5TVQslm16Mq5dtw9v9XZVeCBpujtvpALw4WmXGVmpEZTDz4WPoo~EwMxhqI-XA__" alt="React Pizza">
+                <div>
+                    <h1>REACT PIZZA</h1>
+                    <p>самая реактивная пицца</p>
+                </div>
+            </div>
+        </div>
+    </header>
+  <div class="container">
+    <h1>🛒 Ваша корзина</h1>
+    
+    <div id="cart-items"></div>
+    
+    <div class="total" id="cart-total"></div>
+    
+    <div class="actions">
+      <button onclick="clearCart()">Очистить корзину</button>
+      <button onclick="goBack()">Вернуться в меню</button>
+    </div>
+  </div>
+  <script src="script2.js"></script>
+</body>
+</html>

@@ -1,0 +1,66 @@
+[
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/bcbd/4371/fe81d3a3ec638fb078b2122eed2d7420?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=LVbnjL77phDEDqRtTKSG-XjR9o9gfUOKMolc~Ge2qScSXXhe2Pju~KdgbNOypv-M~Vh4CXdwDtVWBNgIC7KJ~8bkAR9rHYg5nDd0YVvt7jb54kyji2x-50vbLBveEN08HmvXtnA6nrP9Noti0ANRyg8eX9lcceOx13flPTP5hMTXTbtPIIB73~NzbdMhyr8sDl4ziFfo~dv9ts-3n8QRISoqy7mDgbmn75TCpn6p9A0ge7Pb5iOmDgxWkIYpgU5qJorwRR6lcgMWKAAQtKabGMB8onq~NcUljiL~KpaBdWwWNjazMOCcBQ1LhBxcfrH~fTsZWvSqUmPKDBI6kgOGDA__",
+      "name": "Чизбургер-пицца",
+      "options": "Тонкое / Традиционное",
+      "sizes": "26 см / 30 см / 40 см",
+      "price": "от 395",
+      "category": "Мясные"
+    },
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/2997/9ae7/4b2dd8c255833c6c0db221da6a5b3fae?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=rqUlzd5CqzYEgMtu~526iNnLq3VZtNNSRj8aurOz1E1BQ3KWwGu~s~niBVOvlhAe1a7qmPJ~HIW~G-34O8k2J1aUehPVveBZEKkZQiVOSHohzEJHCNTvGJ6qryAHjcNok5T6SFWWya0ObxRHt1Rym8Il4XIIYxWn2qJaGGejnnlBXrgV9B68SouUJdFLpcSmQwaIkB4-zsrD7BeUpcAg1Oheqn6RbRhmGTm3wH7J6-s7amVwDvaM7GYrYvX7KRlXEuvfIlVshveyfr3y3FhL6x8qciXuSW1uOY-7L4w-8ChlZFEXdKKuzylkjUNzgThlSDwcJn9aJyBbYTgNUcQ4Vg__",
+      "name": "Сырная",
+      "options": "Тонкое / Традиционное",
+      "sizes": "26 см / 30 см / 40 см",
+      "price": "от 450",
+      "category": "Вегетарианская"
+    },
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/94bc/0f13/3837f2e7162797b5233b5520d2f5ea7c?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=S1xQg0cSI5lcXWP7nSsmtF~eBNrkIMz3i3OWFQE3ySELlP8y5nVLMMrlNoad5cNnPy6YjGk2krFqpxHBTcYGyusfELvDV~nTx97APXNroyQPHCY1bhXZfIQdgq2tEtnRmn~73EDfYNh5qlAeRa-obVeXTo5jyHqkk3vOg4btMEHVsioivWhUjG4CKkB-w6fX67Sq1KMOkGiJy2XX1gmrmpAhCl8uxLYyTubaF0b8cGhuWC4H43dAF-9c-gKm2~T0sYQFEssPjlECe80bw8dlhcPYdTLsAbjfjwJKprDgCQuToSyrKR-K04VnnbY1xTE2LHunL4bnB5FsxiS45-eJSw__",
+      "name": "Креветки по-азиатски",
+      "options": "Тонкое / Традиционное",
+      "sizes": "26 см / 30 см / 40 см",
+      "price": "от 290",
+      "category": "Гриль"
+    },
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/ca9b/e23e/3d44180b3596e4c86e6b3c3bf2fdc984?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=gGLFqWlNXLHnxZu2nyQlaRZJqnBcgCin8bE0ti-W0Zf89zNPpLdbC1indEaeU5IskQlfIjS194diHDRTgF6IWs31AlEgpbaWDfV4dl3z7cQKStbpUR7moaa6YmuXlkvvjM4yAThoYCnHqzJNXMZOqCbhIBiDecUlctALaYfqn7p6256o0kzgm8KWUTlyxxA8a4fhzpdTV8OzT73pEox--skdZi7LBb-TxmJGbvKAcUTyFxGyc1EjQK6j6A9iyV7~PrFeMSagYsqWAFF9SS-JzKTCzEQD2wB4En-uE-MlYp8VSccuU7Ov8bGlZ0vv2vljblJR8fGbOCZVmYxOPJL50w__",
+      "name": "Сырный цыпленок",
+      "options": "Тонкое / Традиционное",
+      "sizes": "26 см / 30 см / 40 см",
+      "price": "от 385",
+      "category": "Мясные"
+    },
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/bcbd/4371/fe81d3a3ec638fb078b2122eed2d7420?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=LVbnjL77phDEDqRtTKSG-XjR9o9gfUOKMolc~Ge2qScSXXhe2Pju~KdgbNOypv-M~Vh4CXdwDtVWBNgIC7KJ~8bkAR9rHYg5nDd0YVvt7jb54kyji2x-50vbLBveEN08HmvXtnA6nrP9Noti0ANRyg8eX9lcceOx13flPTP5hMTXTbtPIIB73~NzbdMhyr8sDl4ziFfo~dv9ts-3n8QRISoqy7mDgbmn75TCpn6p9A0ge7Pb5iOmDgxWkIYpgU5qJorwRR6lcgMWKAAQtKabGMB8onq~NcUljiL~KpaBdWwWNjazMOCcBQ1LhBxcfrH~fTsZWvSqUmPKDBI6kgOGDA__",
+      "name": "Чизбургер-пицца",
+      "options": "Тонкое / Традиционное",
+      "sizes": "26 см / 30 см / 40 см",
+      "price": "от 395 ₽",
+      "category": "Мясные"
+    },
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/2997/9ae7/4b2dd8c255833c6c0db221da6a5b3fae?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=rqUlzd5CqzYEgMtu~526iNnLq3VZtNNSRj8aurOz1E1BQ3KWwGu~s~niBVOvlhAe1a7qmPJ~HIW~G-34O8k2J1aUehPVveBZEKkZQiVOSHohzEJHCNTvGJ6qryAHjcNok5T6SFWWya0ObxRHt1Rym8Il4XIIYxWn2qJaGGejnnlBXrgV9B68SouUJdFLpcSmQwaIkB4-zsrD7BeUpcAg1Oheqn6RbRhmGTm3wH7J6-s7amVwDvaM7GYrYvX7KRlXEuvfIlVshveyfr3y3FhL6x8qciXuSW1uOY-7L4w-8ChlZFEXdKKuzylkjUNzgThlSDwcJn9aJyBbYTgNUcQ4Vg__",
+      "name": "Сырная",
+      "options": "Тонкое / Традиционное",
+      "sizes": "26 см / 30 см / 40 см",
+      "price": "от 450",
+      "category": "Вегетарианская"
+    },
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/94bc/0f13/3837f2e7162797b5233b5520d2f5ea7c?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=S1xQg0cSI5lcXWP7nSsmtF~eBNrkIMz3i3OWFQE3ySELlP8y5nVLMMrlNoad5cNnPy6YjGk2krFqpxHBTcYGyusfELvDV~nTx97APXNroyQPHCY1bhXZfIQdgq2tEtnRmn~73EDfYNh5qlAeRa-obVeXTo5jyHqkk3vOg4btMEHVsioivWhUjG4CKkB-w6fX67Sq1KMOkGiJy2XX1gmrmpAhCl8uxLYyTubaF0b8cGhuWC4H43dAF-9c-gKm2~T0sYQFEssPjlECe80bw8dlhcPYdTLsAbjfjwJKprDgCQuToSyrKR-K04VnnbY1xTE2LHunL4bnB5FsxiS45-eJSw__",
+      "name": "Креветки по-азиатски",
+      "options": "Тонкое / Традиционное",
+      "sizes": "26 см / 30 см / 40 см",
+      "price": "от 290",
+      "category": "Гриль"
+    },
+    {
+      "image": "https://s3-alpha-sig.figma.com/img/ca9b/e23e/3d44180b3596e4c86e6b3c3bf2fdc984?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=gGLFqWlNXLHnxZu2nyQlaRZJqnBcgCin8bE0ti-W0Zf89zNPpLdbC1indEaeU5IskQlfIjS194diHDRTgF6IWs31AlEgpbaWDfV4dl3z7cQKStbpUR7moaa6YmuXlkvvjM4yAThoYCnHqzJNXMZOqCbhIBiDecUlctALaYfqn7p6256o0kzgm8KWUTlyxxA8a4fhzpdTV8OzT73pEox--skdZi7LBb-TxmJGbvKAcUTyFxGyc1EjQK6j6A9iyV7~PrFeMSagYsqWAFF9SS-JzKTCzEQD2wB4En-uE-MlYp8VSccuU7Ov8bGlZ0vv2vljblJR8fGbOCZVmYxOPJL50w__",
+      "name": "Сырный цыпленок",
+      "options": "Тонкое / Традиционное",
+      "sizes": "26 см / 30 см / 40 см",
+      "price": "от 385",
+      "category": "Мясные"
+    }
+  ]

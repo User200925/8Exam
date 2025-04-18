@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>React Pizza</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header class="header">
+        <div class="container header-container">
+            <div class="logo">
+                <img style="max-width: 38px;" src="https://s3-alpha-sig.figma.com/img/4de5/7236/f9f670697fd9287efa7cab2cffff922e?Expires=1745798400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=eM618vjEBDRT-aMrjCTcrv0iCpUGfhoNUl2H-ZCbha3Og0VedbM0AsTvbCyx8KHZETO7luZXGBB-4Tl3-O2iEVKgVCsQymkPqtApfvuLQ3NZJ4d9lZ668hmVeQ5cFzf-TX-fU-eLPI0OFtyxVi3vehY~ZenwW6a9ufL7x3N2CP5R3DQrOod0iJjewTE4l0kFNP1OsVGprdLOQrkxu3e8v9GoX42NztRSHFukRRhkkynWzK~mT4QU6HI0v~dlvRNf~WtttZl5cIUKDAfhSYny8nbF5TVQslm16Mq5dtw9v9XZVeCBpujtvpALw4WmXGVmpEZTDz4WPoo~EwMxhqI-XA__" alt="React Pizza">
+                <div>
+                    <h1>REACT PIZZA</h1>
+                    <p>самая вкусная пицца во вселенной</p>
+                </div>
+            </div>
+            <a href="index2.html" class="cart">
+                <span>0 ₽</span>
+                <div class="cart-divider"></div>
+                <span>🛒0</span>
+            </a>
+        </div>
+    </header>
+
+    <main class="main container">
+        <div class="filters">
+            <button class="filter active">Все</button>
+            <button class="filter">Мясные</button>
+            <button class="filter">Вегетарианская</button>
+            <button class="filter">Гриль</button>
+            <button class="filter">Острые</button>
+            <button class="filter">Закрытые</button>
+        </div>
+
+        <h2>Все пиццы</h2>
+        <main>
+            <div class="pizza-container"></div>
+        </main>
+    </main>
+    <section>
+        <div id="menu"></div>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>

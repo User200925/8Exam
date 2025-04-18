@@ -1,0 +1,66 @@
+*{
+    font-family: sans-serif;
+    text-decoration: none;
+}
+.container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+
+.header { background-color: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.05); padding: 20px 0; }
+
+.header-container { display: flex; justify-content: space-between; align-items: center; }
+
+.logo { display: flex; align-items: center; gap: 15px; }
+
+.logo h1 { margin: 0; font-size: 24px; }
+
+.logo p { margin: 0; font-size: 14px; color: #b6b6b6; }
+
+.cart { display: flex; align-items: center; gap: 10px; background-color: #fe5f1e; color: white; padding: 10px 20px; border-radius: 30px; font-weight: bold; }
+
+.cart-divider { width: 1px; height: 20px; background-color: white; }
+
+.filters { margin: 20px 0; display: flex; flex-wrap: wrap; gap: 10px; }
+
+.filter { background-color: #f3f3f3; border: none; padding: 10px 20px; border-radius: 30px; cursor: pointer; font-weight: 500; }
+
+.filter.active { background-color: #282828; color: white; }
+
+.sort { display: flex; align-items: center; gap: 10px; margin-bottom: 20px; }
+
+.pizza-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 30px; }
+
+.pizza-card { background-color: white; border-radius: 10px; padding: 20px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05); text-align: center; }
+
+.pizza-card img { width: 100%; max-width: 260px; border-radius: 50%; }
+
+.pizza-card h3 { font-size: 20px; margin: 15px 0; }
+
+.options { margin-bottom: 10px; }
+
+.types, .sizes { display: flex; justify-content: center; gap: 10px; margin-bottom: 10px; }
+
+.types button, .sizes button { padding: 5px 10px; border: none; border-radius: 20px; background-color: #f3f3f3; cursor: pointer; font-size: 14px; }
+
+.types button.active, .sizes button.active { background-color: #282828; color: white; }
+
+.bottom { display: flex; justify-content: space-between; align-items: center; }
+
+.add-btn { background-color: #fe5f1e; border: none; border-radius: 30px; padding: 8px 16px; color: white; cursor: pointer; font-weight: bold; transition: background-color 0.3s; }
+
+.add-btn:hover {
+    background-color: #ff7733;
+}
+
+.pizza-card {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    text-align: center;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .pizza-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.12);
+  }
+  
